@@ -1,0 +1,316 @@
+Precio (ARS),Marca,Modelo,Versión,Año,KM,Color,Combustible,Puertas,Transmisión,Motor,Carrocería,Ubicación,Cilindrada
+21098030,Fiat,Cronos,1.3 Attractive Mt,2023,0,Blanco,Nafta,4,Automática,1.3,Sedán,Ezeiza - Bs.As. G.B.A. Sur,1.3
+21098029,Fiat,Cronos,1.3 Attractive Mt,2023,0,Negro,Nafta,4,Automática,1.3,Sedán,Berazategui - Bs.As. G.B.A. Sur,1.3
+18327000,Smart,Fortwo,1.0 City,2016,50000,Rojo,Nafta,3,Manual,1.0,Coupé,Capital Federal - Capital Federal,1.0
+21098028,Fiat,Cronos,1.3 Attractive Mt,2023,0,Blanco,Nafta,4,Automática,1.3,Sedán,Lanús - Bs.As. G.B.A. Sur,1.3
+26900000,Chevrolet,Cruze,1.4 Lt At Sedan,2023,17169,Plateado,Nafta,4,Automática,1.4,Sedán,Pilar - Bs.As. G.B.A. Norte,1.4
+9717000,Chevrolet,Celta,1.4 Ls Aa+dir,2013,127000,Blanco,Nafta,3,Manual,1.4,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.4
+16500000,Citroën,C3,1.6 Vti 115 At6 Feel,2020,79200,Plateado,Nafta,5,Automática,1.6,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.6
+48831000,Ford,Bronco Sport,2.0 Ecoboost 4Wd Wildtrak At8,2024,5000,Gris,Nafta,5,Automática,2.0,SUV,Tigre - Bs.As. G.B.A. Norte,2.0
+31980000,Fiat,Toro,1.3 T270 Volcano 4X2 At,2025,666,Gris,Nafta,4,Automática,1.3,Pick-Up,San Fernando Del Valle De Catamarca - Catamarca,1.3
+8798900,Toyota,Corolla,1.8 Xei Cvt 140cv,2015,98000,Plateado,Nafta/GNC,4,Automática,1.8,Sedán,Capital Federal - Capital Federal,1.8
+7500000,Volkswagen,Suran,1.6 Highline 101cv,2015,89000,Blanco,Nafta,5,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+30900000,Peugeot,208,1.0T Gt,2025,1111,Gris,Nafta,5,Automática,1.0,Hatchback,La Matanza - Bs.As. G.B.A. Oeste,1.0
+9628000,Chery,Tiggo 3,1.6 3 Luxury,2017,98000,Plateado,Nafta,5,Manual,1.6,SUV,Capital Federal - Capital Federal,1.6
+20787000,Kia,Soul,1.6 Ex 132cv 6at,2016,110000,Azul,Nafta,5,Automática,1.6,SUV,San Isidro - Bs.As. G.B.A. Norte,1.6
+20900000,Chevrolet,Onix,Chevrolet Onix LT 1.0 nafta Turbo Manual 5 puertas Hatchback,2024,1000,Gris,Nafta,5,Manual,Motor 1.0 nafta Turbo 116cv 160 Nm,Hatchback,Capital Federal - Capital Federal,1.0
+53900000,Chevrolet,S10,2.8 High Country Cd Tdci 200cv Automática,2024,1000,Plateado,Diésel,4,Automática,2.8,Pick-Up,Capital Federal - Capital Federal,2.8
+22200000,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Tandil - Buenos Aires Interior,1.0
+16000000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,1000,Blanco,Nafta,4,Automática,1.3,Pick-Up,Capital Federal - Capital Federal,1.3
+22200000,Chevrolet,Onix plus,1.2 Lt,2024,1000,Blanco,Nafta,4,Manual,1.2,Sedán,Tandil - Buenos Aires Interior,1.2
+26500000,Peugeot,208,1.0T Allure Pack,2024,2500,Blanco,Nafta,5,Automática,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+54120000,Volkswagen,Amarok,3.0 V6 Extreme Black Style,2025,2500,Negro,Diésel,4,Automática,3.0,Pick-Up,Vicente López - Bs.As. G.B.A. Norte,3.0
+23300000,Peugeot,208,1.6 Feline Tiptronic,2022,51250,Plateado,Nafta,5,Automática,1.6,Hatchback,San Fernando - Bs.As. G.B.A. Norte,1.6
+17200000,Ford,Ecosport,1.5 Se 123cv 4x2,2018,91760,Naranja,Nafta,5,Manual,1.5,SUV,San Fernando - Bs.As. G.B.A. Norte,1.5
+15300000,Volkswagen,Up!,1.0 Cross Up!,2017,97700,Rojo,Nafta,5,Manual,1.0,Hatchback,San Fernando - Bs.As. G.B.A. Norte,1.0
+14500000,Renault,Sandero Stepway,1.6 Privilege 105cv,2017,103000,Blanco,Nafta,5,Manual,1.6,Hatchback,San Fernando - Bs.As. G.B.A. Norte,1.6
+16900000,Renault,Sandero,1.6 Gt Line 105cv,2019,53000,Blanco,Nafta,5,Manual,1.6,Hatchback,San Fernando - Bs.As. G.B.A. Norte,1.6
+9840000,Fiat,FASTBACK,1.3 T270 At6,2025,500,Negro,Nafta,5,Automática,1.3,SUV,Capital Federal - Capital Federal,1.3
+15375000,Fiat,Pulse,1.3 Gse Abarth Turbo 270 At,2025,500,Blanco,Nafta,5,Automática,1.3,SUV,Capital Federal - Capital Federal,1.3
+7995000,Fiat,Strada,1.3 Freedom Cs,2025,500,Gris,Nafta,2,Manual,1.3,Pick-Up,Guaymallén - Mendoza,1.3
+6888000,Fiat,Cronos,1.3 Drive S-design Mt,2025,500,Blanco,Nafta/GNC,4,Manual,1.3,Sedán,Florencio Varela - Bs.As. G.B.A. Sur,1.3
+26897000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Gris,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+26897000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Gris,Nafta,5,Automática,1.2,SUV,Caseros - Bs.As. G.B.A. Oeste,1.2
+27750000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Gris,Nafta,5,Automática,1.2,SUV,Beccar - Bs.As. G.B.A. Norte,1.2
+4920000,Fiat,Cronos,1.3 Gse Like,2025,500,Blanco,Nafta/GNC,4,Manual,1.3,Sedán,Caseros - Bs.As. G.B.A. Oeste,1.3
+31461000,Chevrolet,Tracker,1.2 Rs At6,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+30689000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+30689000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,San Isidro - Bs.As. G.B.A. Norte,1.2
+19000000,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.0
+22055000,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+30852000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Rojo,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+22055000,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+32728000,Chevrolet,Tracker,1.2 Rs At6,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+30500000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Rojo,Nafta,5,Automática,1.2,SUV,Escobar - Bs.As. G.B.A. Norte,1.2
+7995000,Fiat,Cronos,1.3 Gse Precision Cvt,2025,500,Blanco,Nafta/GNC,4,Automática,1.3,Sedán,Florencio Varela - Bs.As. G.B.A. Sur,1.3
+28291000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Gris,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+4920000,Fiat,Cronos,1.3 Gse Drive,2025,500,Gris,Nafta,4,Manual,1.3,Sedán,Ezeiza - Bs.As. G.B.A. Sur,1.3
+22279409,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Escobar - Bs.As. G.B.A. Norte,1.0
+22279409,Chevrolet,Onix,1.0 Lt,2024,1000,Plateado,Nafta,5,Manual,1.0,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.0
+19900000,Chevrolet,Onix,1.0 Lt,2024,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Escobar - Bs.As. G.B.A. Norte,1.0
+24500000,Fiat,Pulse,1.3 Gse Drive Mt,2025,500,Blanco,Nafta,5,Manual,1.3,SUV,Capital Federal - Capital Federal,1.3
+23950000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Escobar - Bs.As. G.B.A. Norte,1.2
+22278000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Cañuelas - Buenos Aires Interior,1.2
+22278000,Chevrolet,Onix,1.0 Lt,2024,1000,Plateado,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+26897000,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+30852000,Chevrolet,Tracker,1.2 Turbo Ltz At,2024,1000,Gris,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+21700000,Chevrolet,Onix,1.0 Lt,2024,1000,Rojo,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+25109000,Chevrolet,Onix,1.0 Lt,2024,1000,Rojo,Nafta,5,Manual,1.0,Hatchback,Lomas De Zamora - Bs.As. G.B.A. Sur,1.0
+32970000,Chevrolet,Tracker,1.2 Rs At6,2024,1000,Blanco,Nafta,5,Automática,1.2,SUV,Lomas De Zamora - Bs.As. G.B.A. Sur,1.2
+28899999,Chevrolet,Tracker,1.2 Turbo At,2024,1000,Rojo,Nafta,5,Automática,1.2,SUV,Avellaneda - Bs.As. G.B.A. Sur,1.2
+26500000,Chevrolet,Onix,1.0 Turbo Premier Ii At,2024,1000,Plateado,Nafta,5,Automática,1.0,Hatchback,Lanús - Bs.As. G.B.A. Sur,1.0
+35800000,Chevrolet,Tracker,1.2 Premier Turbo At,2024,1000,Blanco,Nafta,5,Automática,1.2,SUV,Caseros - Bs.As. G.B.A. Oeste,1.2
+31040000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Plateado,Nafta,5,Automática,1.2,SUV,Beccar - Bs.As. G.B.A. Norte,1.2
+28920000,Chevrolet,Tracker,1.2 Turbo Mt,2024,1000,Blanco,Nafta,5,Manual,1.2,SUV,Avellaneda - Bs.As. G.B.A. Sur,1.2
+29426000,Chevrolet,Montana,1.2 Ltz At,2024,1000,Negro,Nafta,4,Automática,motor naftero 1.2 turbo 132 CV 190 Nm,Pick-Up,Azul - Buenos Aires Interior,1.2
+31900000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Blanco,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+13980900,Chevrolet,Spin,1.8 Ltz 7as 105cv,2013,110000,Plateado,Nafta/GNC,5,Manual,1.8,Monovolumen,Capital Federal - Capital Federal,1.8
+12915000,Audi,A4,2.0 Attraction Tfsi Stronic Quattro,2013,86745,Gris,Nafta,4,Automática,2.0,Sedán,Vicente López - Bs.As. G.B.A. Norte,2.0
+14500000,Volkswagen,Gol Trend,1.6 Serie 101cv,2018,68958,Gris,Nafta,3,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+16500000,Fiat,Strada,1.6 Adventure Cd Pack Top,2018,118385,Blanco,Nafta,3,Manual,1.6,Pick-Up,Capital Federal - Capital Federal,1.6
+22632000,Peugeot,208,1.6 Allure Pack,2023,25000,Blanco,Nafta,5,Manual,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+21156000,Renault,Sandero Stepway,1.6 16v Intense,2020,42000,Blanco,Nafta,5,Manual,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+15006000,Renault,Duster,2.0 4x2 Luxe Nav 138cv,2014,120000,Negro,Nafta,5,Manual,2.0,SUV,San Isidro - Bs.As. G.B.A. Norte,2.0
+9840000,Peugeot,308,1.6 Active,2017,82465,Plateado,Nafta,5,Manual,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+13161000,Peugeot,408,2.0 Feline 143cv,2013,120000,Blanco,Nafta,4,Manual,2.0,Sedán,Vicente López - Bs.As. G.B.A. Norte,2.0
+8610000,Renault,Kwid,1.0 Sce 66cv Zen,2020,74632,Blanco,Nafta,5,Manual,1.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.0
+18980900,Peugeot,308,1.6 Allure Hdi 115cv,2018,68000,Plateado,Diésel,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+21691000,Renault,Sandero Stepway,1.6 16v Intense Cvt,2021,51000,Blanco,Nafta,5,Automática,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+13837500,Fiat,Toro,1.3 T270 Volcano 4X2 At,2025,500,Negro,Nafta,4,Automática,1.3,Pick-Up,Capital Federal - Capital Federal,1.3
+10455000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Rojo,Nafta,4,Automática,1.3,Pick-Up,San Isidro - Bs.As. G.B.A. Norte,1.3
+9840000,Fiat,Fiorino,1.4 Endurance,2024,500,Blanco,Nafta,3,Manual,1.4,Furgón,Capital Federal - Capital Federal,1.4
+12915000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Blanco,Nafta,4,Automática,1.3,Pick-Up,San Isidro - Bs.As. G.B.A. Norte,1.3
+5535000,Fiat,Cronos,1.3 Gse Drive Pack Plus,2025,500,Rojo,Nafta,4,Manual,1.3,Sedán,Avellaneda - Bs.As. G.B.A. Sur,1.3
+9840000,Fiat,Fiorino,1.4 Fire Evo 87cv,2024,500,Blanco,Nafta,3,Manual,1.4,Furgón,La Matanza - Bs.As. G.B.A. Oeste,1.4
+10490000,Renault,Captur,2.0 Intens Manual,2017,90000,Gris,Nafta,5,Manual,2.0,SUV,Pilar - Bs.As. G.B.A. Norte,2.0
+22990000,Peugeot,2008,1.6 Feline Tip am20,2022,76000,Gris,Nafta,5,Automática,1.6,SUV,Los Cardales - Bs.As. G.B.A. Norte,1.6
+11000000,Fiat,Cronos,1.3 Gse Drive Pack Plus Cvt,2025,1000,Gris,Nafta,4,Automática,1.3,Sedán,Capital Federal - Capital Federal,1.3
+25489900,Renault,Kardian,1.6 Sce Evolution 156 Mt,2024,2500,Gris,Nafta,5,Manual,1.6,SUV,Almirante Brown - Bs.As. G.B.A. Sur,1.6
+5904000,Fiat,Mobi,1.0 Trekking,2025,1000,Negro,Nafta,5,Manual,1.0,Hatchback,Beccar - Bs.As. G.B.A. Norte,1.0
+25989900,Renault,Kardian,1.0 Tce Evolution 200 Edc,2025,2500,Gris,Nafta,5,Automática,1.0,SUV,Almirante Brown - Bs.As. G.B.A. Sur,1.0
+28969900,Renault,Kardian,1.0 Tce Premiere Edition 200 Edc,2025,2500,Gris,Nafta,5,Automática,1.0,SUV,Almirante Brown - Bs.As. G.B.A. Sur,1.0
+13776000,Volkswagen,Up!,1.0 Take,2017,74000,Blanco,Nafta,5,Manual,1.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.0
+28900000,Jeep,Compass,2.4 Sport,2020,46000,Negro,Nafta,5,Manual,2.4,SUV,Tigre - Bs.As. G.B.A. Norte,2.4
+5535000,Fiat,Cronos,1.3 Gse Precision Cvt,2025,1000,Blanco,Nafta,4,Automática,1.3,Sedán,Capital Federal - Capital Federal,1.3
+26890900,Volkswagen,Amarok,2.0 Cd Tdi 180cv 4x2 Highline C33,2015,104000,Negro,Diésel,4,Manual,2.0,Pick-Up,Capital Federal - Capital Federal,2.0
+6888000,Fiat,Cronos,1.3 Gse Drive,2025,500,Blanco,Nafta,4,Manual,1.3,Sedán,Capital Federal - Capital Federal,1.3
+49200000,Volkswagen,Amarok,2.0 Cd Tdi 180cv 4x4 Highline At,2023,31000,Plateado,Diésel,4,Automática,2.0,Pick-Up,Capital Federal - Capital Federal,2.0
+39999999,Volkswagen,Golf,2.0 Gti Tsi App Connect + Cuero,2019,74000,Blanco,Nafta,5,Automática,2.0,Hatchback,General San Martín - Bs.As. G.B.A. Norte,2.0
+24900000,Peugeot,208,1.6 Feline Tiptronic,2023,23500,Azul,Nafta,5,Automática,1.6,Hatchback,San Fernando - Bs.As. G.B.A. Norte,1.6
+19000023,Chevrolet,Cruze,1.8 Lt Mt,2017,69000,Plateado,Nafta,5,Manual,1.8,Hatchback,Capital Federal - Capital Federal,1.8
+20910000,Fiat,Cronos,1.3 Drive Cvt,2023,37000,Gris,Nafta/GNC,4,Automática,1.3,Sedán,Vicente López - Bs.As. G.B.A. Norte,1.3
+21900000,Citroën,C4 Cactus,1.6 Vti 115 At6 Feel Pk,2020,54500,Gris,Nafta,5,Automática,1.6,SUV,Pilar - Bs.As. G.B.A. Norte,1.6
+33900000,Fiat,Toro,2.0 Freedom 4x4 At,2022,63100,Negro,Diésel,4,Automática,2.0,Pick-Up,Pilar - Bs.As. G.B.A. Norte,2.0
+24900000,Peugeot,208,1.6 Feline Tiptronic,2023,42088,Blanco,Nafta,5,Automática,1.6,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.6
+22755000,Fiat,Toro,1.3 T270 Volcano 4X2 At,2025,500,Gris,Nafta,4,Automática,1.3,Pick-Up,Vicente López - Bs.As. G.B.A. Norte,1.3
+20910000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Gris,Nafta,4,Automática,1.3,Pick-Up,Lomas De Zamora - Bs.As. G.B.A. Sur,1.3
+23370000,Fiat,Toro,2.0 350 Multijet Volcano 4x4 At,2025,500,Negro,Diésel,4,Automática,2.0,Pick-Up,Hurlingham - Bs.As. G.B.A. Oeste,2.0
+11000000,Jeep,Grand Cherokee,3.1 Limited Automática,2003,240000,Azul,Diésel,5,Automática,3.1,SUV,Avellaneda - Bs.As. G.B.A. Sur,3.1
+8000000,Fiat,Mobi,1.0 Trekking,2025,500,Negro,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+8610000,Fiat,Cronos,1.3 Gse Drive Pack Plus Cvt,2025,500,Plateado,Nafta,4,Automática,1.3,Sedán,Capital Federal - Capital Federal,1.3
+23300000,Peugeot,208,FELINE TIPTRONIC,2022,51000,Gris,Nafta,5,Automática,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+12989900,Smart,Fortwo,1.0 City 71cv,2011,74000,Celeste,Nafta,3,Automática,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+29900000,Peugeot,208,1.0T Gt,2024,3000,Blanco,Nafta,5,Automática,1.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.0
+7700000,Citroën,C3,1.6 I Exclusive,2005,140000,Celeste,Nafta,5,Manual,1.6,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.6
+9500000,Chevrolet,Zafira,2.0 Gl,2009,165000,Gris,Nafta,5,Manual,2.0,Monovolumen,Capital Federal - Capital Federal,2.0
+4305000,Fiat,Mobi,1.0 Trekking,2024,500,Rojo,Nafta,5,Manual,1.0,Hatchback,Pilar - Buenos Aires Interior,1.0
+21525000,Dodge,Journey,3.6 R/t Atx Awd 280cv,2013,97800,Negro,Nafta,5,Automática,3.6,SUV,Capital Federal - Capital Federal,3.6
+13989900,Volkswagen,Up!,1.0 Black Up! 75cv,2016,95000,Negro,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+14940000,Volkswagen,Amarok,2.0 Cd Tdi 140cv Trendline,2023,23000,Blanco,Diésel,4,Manual,2.0,Pick-Up,Pilar - Bs.As. G.B.A. Norte,2.0
+16989900,Toyota,Etios,1.5 Sedan X,2019,75000,Blanco,Nafta,4,Manual,1.5,Sedán,Capital Federal - Capital Federal,1.5
+9489900,Peugeot,207,1.4 Xs,2012,149000,Plateado,Nafta,3,Manual,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+19900000,Renault,Captur,1.6 Intens Cvt,2019,85000,Rojo,Nafta,5,Automática,1.6,SUV,Vicente López - Bs.As. G.B.A. Norte,1.6
+24300000,Volkswagen,Vento,1.4 Highline 150cv At,2017,117700,Blanco,Nafta,4,Automática,1.4,Sedán,Almirante Brown - Bs.As. G.B.A. Sur,1.4
+20799999,Chevrolet,Onix,Chevrolet Onix LT 1.0 Nafta Turbo Manual 5 puertas,2024,1000,Plateado,Nafta,5,Manual,Motor 1.0 nafta Turbo 116cv 160 Nm,Hatchback,La Matanza - Bs.As. G.B.A. Oeste,1.0
+29800000,Chevrolet,Tracker,1.2 Ltz Turbo At,2024,1000,Negro,Nafta,5,Automática,1.2,SUV,La Matanza - Bs.As. G.B.A. Oeste,1.2
+44280000,Honda,HR-V,1.8 Lx 2wd Cvt,2024,800,Plateado,Nafta,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+44280000,Honda,Zr-V,2.0 Lx 2Wd Cvt,2024,800,Plateado,Nafta,5,Automática,2.0,SUV,Capital Federal - Capital Federal,2.0
+32000000,Toyota,Corolla,1.8 Hev Seg Ecvt,2022,51119,Gris,Híbrido/Nafta,4,Automática,1.8,Sedán,Capital Federal - Capital Federal,1.8
+7900000,Peugeot,2008,1.6 Allure,2017,76000,Blanco,Nafta,5,Manual,1.6,SUV,Capital Federal - Capital Federal,1.6
+35547000,Peugeot,308,1.6 S Gt,2019,86000,Blanco,Nafta,5,Automática,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+17390900,Renault,Sandero,1.6 Privilege Pack 105cv,2017,60000,Plateado,Nafta/GNC,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+32900000,Hyundai,Creta,1.6 Gl Connect Automática,2022,41000,Blanco,Nafta,5,Automática,1.6,SUV,Capital Federal - Capital Federal,1.6
+36989900,Nissan,Murano,3.5 Exclusive,2018,89000,Naranja,Nafta,5,Automática,3.5,SUV,Capital Federal - Capital Federal,3.5
+26989900,Jeep,Renegade,1.8 Sport At Plus,2021,98000,Negro,Nafta,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+9900000,Volkswagen,Gol Trend,1.6 Trendline 101Cv At,2021,31000,Plateado,Nafta,5,Automática,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+27000000,Jeep,Renegade,1.8 Longitude At6,2020,61000,Negro,Nafta,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+22500000,Chevrolet,Cruze II,1.4 Sedan Lt,2020,30000,Negro,Nafta,4,Manual,1.4,Sedán,San Isidro - Bs.As. G.B.A. Norte,1.4
+16989900,Citroën,Berlingo Multispace,1.6 Xtr Hdi 92cv,2016,99000,Blanco,Diésel,5,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+7995000,Volkswagen,Up!,1.0 Take Up! Aa 75Cv 3P,2018,82463,Rojo,Nafta,3,Manual,1.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.0
+53000000,Ford,Ranger,3.0 V6 Cd 4X4 Xls At 250Cv,2024,4500,Gris,Diésel,4,Automática,3.0,Pick-Up,La Plata - Bs.As. G.B.A. Sur,3.0
+13989900,Peugeot,3008,1.6 Premium Plus Thp 156cv,2012,133000,Gris,Nafta,5,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+17989900,Peugeot,208,1.6 Feline,2019,89000,Blanco,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+13989900,Nissan,Note,1.6 Sense 107cv,2015,99000,Azul,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+16200000,Renault,Duster,1.6 Ph2 4x2 Dynamique 110cv,2020,125000,Rojo,Nafta,5,Manual,1.6,SUV,Capital Federal - Capital Federal,1.6
+15200000,Renault,Sandero,1.6 Dynamique 90cv Abs,2019,73000,Rojo,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+9989900,Citroën,Berlingo Multispace,1.6 Xtr Hdi 92cv,2016,99000,Blanco,Diésel,5,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+16728000,Ford,Ka,1.5 Sel,2018,84000,Rojo,Nafta,5,Manual,1.5,Hatchback,Capital Federal - Capital Federal,1.5
+47400000,Nissan,Murano,3.5 Exclusive,2017,53000,Naranja,Nafta,5,Automática,3.5,SUV,Capital Federal - Capital Federal,3.5
+5398900,Peugeot,207,1.4 Xs,2012,164000,Gris,Nafta,3,Manual,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+12798900,Hyundai,Creta,1.6 Gl Connect,2018,69000,Blanco,Nafta,5,Automática,1.6,SUV,Capital Federal - Capital Federal,1.6
+38000000,Volkswagen,Polo,1.4 Tsi 250 Gts,2024,1241,Gris,Nafta,5,Automática,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+9840000,Ford,Focus 2,1.8 Tdci Trend Plus,2013,166523,Gris,Diésel,5,Manual,1.8,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.8
+55350000,Volkswagen,Amarok,3.0 V6 Cd Highline,2023,38000,Negro,Diésel,4,Automática,3.0,Pick-Up,La Plata - Bs.As. G.B.A. Sur,3.0
+18448770,Renault,Sandero,2.0 Rs 145cv,2019,57000,Blanco,Nafta,5,Manual,2.0,Hatchback,Capital Federal - Capital Federal,2.0
+26937000,Fiat,500,1.4 Lounge 105cv Serie4,2019,39600,Rojo,Nafta,2,Automática,1.4,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.4
+33197700,Volkswagen,Golf,1.4 Highline Tsi Dsg,2020,119000,Gris,Nafta,5,Automática,1.4,Hatchback,General San Martín - Bs.As. G.B.A. Norte,1.4
+20418000,Volkswagen,Virtus,1.6 Msi Trendline,2020,47000,Gris,Nafta,4,Manual,1.6,Sedán,Vicente López - Bs.As. G.B.A. Norte,1.6
+18000000,Peugeot,208,1.6 Feline,2019,95000,Gris,Nafta,5,Manual,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+3690000,Fiat,Cronos,-,2025,500,Blanco,Nafta/GNC,5,Manual,1.3,Sedán,José C. Paz - Bs.As. G.B.A. Norte,1.3
+15000000,Renault,Sandero Stepway,1.6 Privilege 105cv,2016,140000,Naranja,Nafta,5,Manual,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+10947000,Fiat,Palio,1.4 Weekend Trekking,2011,178000,Blanco,Nafta,5,Manual,1.4,Rural,Berazategui - Bs.As. G.B.A. Sur,1.4
+27000000,Volkswagen,Nivus,1.0 Tsi 200 Comfortline,2023,37000,Gris,Nafta,5,Automática,1.0,SUV,Vicente López - Bs.As. G.B.A. Norte,1.0
+16000000,Peugeot,208,1.6 Allure Nav Tiptronic,2016,72000,Rojo,Nafta,5,Automática,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+6765000,Fiat,Cronos,1.3 Gse Drive Pack Plus Cvt,2025,1000,Blanco,Nafta,4,Automática,1.3,Sedán,Capital Federal - Capital Federal,1.3
+10500000,Volkswagen,Suran,1.6 Limited Edition,2014,196843,Negro,Nafta,5,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+13550000,Fiat,Mobi,1.0 Way,2017,55894,Blanco,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+6150000,Fiat,Fiorino,1.4 Endurance,2024,500,Blanco,Nafta,3,Manual,1.4,Furgón,La Matanza - Bs.As. G.B.A. Oeste,1.4
+9840000,Fiat,Cronos,1.3 Gse Drive Pack Plus,2025,500,Gris,Nafta,4,Manual,1.3,Sedán,Morón - Bs.As. G.B.A. Oeste,1.3
+18450000,Fiat,FASTBACK,1.3 T270 At6,2025,1000,Blanco,Nafta,5,Automática,1.3,SUV,Ezeiza - Bs.As. G.B.A. Sur,1.3
+6150000,Fiat,Mobi,1.0 Trekking,2025,1000,Negro,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+21989900,Toyota,Corolla,1.8 Xli Cvt 140cv,2019,107000,Blanco,Nafta,4,Automática,1.8,Sedán,Capital Federal - Capital Federal,1.8
+3690000,Fiat,Cronos,1.3 Gse Precision Cvt,2025,1200,Blanco,Nafta,4,Automática,1.3,Sedán,Ituzaingó - Bs.As. G.B.A. Oeste,1.3
+31989900,Volkswagen,Amarok,2.0 Cd Tdi 180cv Highline,2018,114000,Blanco,Diésel,4,Manual,2.0,Pick-Up,Capital Federal - Capital Federal,2.0
+42000000,Jeep,Compass,2.4 Limited 170cv Atx,2021,33000,Gris,Nafta,5,Automática,2.4,SUV,Capital Federal - Capital Federal,2.4
+16558890,Volkswagen,Amarok,2.0 Cd Tdi 180cv Highline,2018,114000,Blanco,Diésel,4,Manual,2.0,Pick-Up,Capital Federal - Capital Federal,2.0
+8397100,Ford,Focus III,1.6 Sedan S,2019,87000,Blanco,Nafta/GNC,4,Manual,1.6,Sedán,Capital Federal - Capital Federal,1.6
+9798990,Chevrolet,Tracker,1.8 Ltz+ Awd At 140cv,2015,95000,Negro,Nafta/GNC,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+17220000,Ford,Focus III,2.0 Titanium At6,2017,200000,Negro,Nafta,5,Automática,2.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,2.0
+33087000,Chevrolet,Equinox,1.5t Premier 4wd,2019,43000,Plateado,Nafta,5,Automática,1.5,SUV,Capital Federal - Capital Federal,1.5
+35900000,Peugeot,3008,1.6 Gt-line Thp Tiptronic,2020,58000,Gris,Nafta,5,Automática,1.6,SUV,Pilar - Bs.As. G.B.A. Norte,1.6
+25830000,Nissan,Kicks,1.6 Exclusive Cvt,2018,97000,Gris,Nafta,5,Automática,1.6,SUV,Vicente López - Bs.As. G.B.A. Norte,1.6
+14760000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Negro,Nafta,4,Automática,1.3,Pick-Up,Tinogasta - Catamarca,1.3
+8610000,Fiat,Cronos,1.3 Gse Drive Pack Plus Cvt,2025,500,Blanco,Nafta,4,Automática,1.3,Sedán,Godoy Cruz - Mendoza,1.3
+9840000,Fiat,Fiorino,1.4 Endurance,2024,500,Blanco,Nafta,3,Manual,1.4,Furgón,Lanús - Bs.As. G.B.A. Sur,1.4
+16500000,Peugeot,208,1.6 Gt Thp,2017,100363,Gris,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+35547000,Kia,Carnival,2.2 Crdi,2016,182974,Blanco,Diésel,5,Automática,2.2,Monovolumen,Vicente López - Bs.As. G.B.A. Norte,2.2
+15989900,Peugeot,Partner Patagónica,1.6 Hdi,2014,144000,Blanco,Diésel,4,Manual,1.6,Monovolumen,Capital Federal - Capital Federal,1.6
+15498900,Jeep,Compass,2.4 Longitude,2018,79000,Azul,Nafta,5,Automática,2.4,SUV,Capital Federal - Capital Federal,2.4
+17989900,Ford,Focus III,1.6 Sedan S,2019,87000,Blanco,Nafta,4,Manual,1.6,Sedán,Capital Federal - Capital Federal,1.6
+13600000,Chevrolet,Prisma,1.4 Ltz 98cv,2016,88486,Negro,Nafta,4,Manual,1.4,Sedán,Capital Federal - Capital Federal,1.4
+33989900,Peugeot,3008,2.0 Gt-line Hdi Tiptronic,2018,50000,Blanco,Diésel,5,Automática,2.0,SUV,Capital Federal - Capital Federal,2.0
+34989900,Hyundai,H1,2.5 Full Premium 12 Pas At,2015,180000,Plateado,Diésel,4,Automática,2.5,Monovolumen,Capital Federal - Capital Federal,2.5
+10798900,Nissan,Versa,1.6 Sense,2021,38000,Gris,Nafta,4,Manual,1.6,Sedán,Capital Federal - Capital Federal,1.6
+17466000,Renault,Duster,1.6 Ph2 4x2 Privilege 110cv,2016,82000,Gris,Nafta,5,Manual,1.6,SUV,Vicente López - Bs.As. G.B.A. Norte,1.6
+28659000,Chevrolet,Cruze 5,1.4 Lt At 5p,2022,22000,Azul,Nafta,5,Automática,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+19500000,Toyota,Etios,1.5 X 6mt My19,2023,40000,Blanco,Nafta,5,Manual,1.5,Hatchback,Capital Federal - Capital Federal,1.5
+31857000,Toyota,Corolla,1.8 Hev Seg Ecvt,2021,52030,Azul,Híbrido/Nafta,4,Automática,1.8,Sedán,Pilar - Bs.As. G.B.A. Norte,1.8
+19900000,Ford,Ecosport,1.5 Titanium 123cv 4x2 Manual,2019,74800,Negro,Nafta,5,Manual,1.5,SUV,Capital Federal - Capital Federal,1.5
+15375000,Ford,Focus III,2.0 Se Plus At6,2014,115000,Gris,Nafta,5,Automática,2.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,2.0
+20295000,Chevrolet,Cruze II,1.4 Lt 153cv,2017,68000,Blanco,Nafta,5,Manual,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+13407000,Volkswagen,Crossfox,1.6 Trendline,2012,122000,Negro,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+4797000,Fiat,Mobi,1.0 Trekking,2025,500,Blanco,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+5166000,Fiat,Cronos,1.3 Gse Drive Pack Plus,2025,535,Negro,Nafta,4,Manual,1.3,Sedán,Lanús - Bs.As. G.B.A. Sur,1.3
+10199000,Renault,Sandero Stepway,1.6 Confort 105cv,2010,122000,Gris,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+43048770,Mercedes-Benz,Clase A,2.0 A250 At Sport 218cv,2017,84200,Gris,Nafta,5,Automática,2.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,2.0
+8856000,Fiat,Cronos,1.3 Gse Precision Cvt,2025,500,Negro,Nafta,4,Automática,1.3,Sedán,Capital Federal - Capital Federal,1.3
+14300000,Ford,Focus III,2.0 Se,2015,113900,Azul,Nafta,5,Manual,2.0,Hatchback,Almirante Brown - Bs.As. G.B.A. Sur,2.0
+20541000,Renault,Duster,1.6 Ph2 4x2 Expression 110cv,2020,49000,Plateado,Nafta,5,Manual,1.6,SUV,San Isidro - Bs.As. G.B.A. Norte,1.6
+32595000,Jeep,Renegade,1.8 Sport At6,2024,6600,Blanco,Nafta,5,Automática,1.8,SUV,Del Viso - Bs.As. G.B.A. Norte,1.8
+35000000,Audi,Q3,2.0 Quattro Tfsi 170cv,2016,81600,Gris,Nafta,5,Manual,2.0,SUV,Capital Federal - Capital Federal,2.0
+15000000,Chevrolet,Tracker,1.8 Ltz+ Awd At 140cv,2014,142634,Plateado,Nafta,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+16900000,Volkswagen,Gol Trend,1.6 Serie 101cv 5p,2020,80000,Blanco,Nafta,5,Manual,1.6,Hatchback,Zárate - Buenos Aires Interior,1.6
+17000000,Volkswagen,Suran,1.6 Trendline,2017,72822,Negro,Nafta,5,Manual,1.6,Monovolumen,Pilar - Bs.As. G.B.A. Norte,1.6
+20295000,Citroën,C4 Lounge,1.6 Vti 115 Live,2021,41000,Blanco,Nafta,4,Manual,1.6,Sedán,San Isidro - Bs.As. G.B.A. Norte,1.6
+24477000,Peugeot,208,1.6 Gti,2018,58000,Blanco,Nafta,3,Manual,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+30135000,Chevrolet,Cruze 5,1.4 Premier  At 5P,2021,55000,Blanco,Nafta,5,Automática,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+12915000,Renault,Clio,1.2 Mio Confort Plus Abs Abcp,2015,98700,Plateado,Nafta,5,Manual,1.2,Hatchback,Capital Federal - Capital Federal,1.2
+22500000,Chevrolet,Cruze,1.8 Ltz At 141cv,2018,100400,Gris,Nafta,4,Automática,1.8,Sedán,Pilar - Bs.As. G.B.A. Norte,1.8
+18000000,Volkswagen,The Beetle,1.4 Tsi Design,2016,151300,Negro,Nafta,3,Manual,1.4,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.4
+22140000,Fiat,Toro,1.3 T270 Volcano 4X2 At,2025,500,Blanco,Nafta,4,Automática,1.3,Pick-Up,Zelaya - Bs.As. G.B.A. Norte,1.3
+13899000,Peugeot,208,1.5 Active,2016,89000,Gris,Nafta,5,Manual,1.5,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.5
+30750000,Volkswagen,New Beetle,1.8 Turbo Sport cabrio cabriolet,2012,45000,Blanco,Nafta,3,Manual,1800 turbo,Cabriolet,Pilar - Bs.As. G.B.A. Norte,1800
+19557000,Toyota,Corolla,1.8 Xei Cvt 140cv,2015,180000,Rojo,Nafta,4,Automática,1.8,Sedán,Mar Del Plata - Bs.As. Costa Atlántica,1.8
+36039000,Hyundai,Tucson,1.6 Tgdi Tct,2018,84000,Naranja,Nafta,5,Automática,1.6,Hatchback,Mar Del Plata - Bs.As. Costa Atlántica,1.6
+35670000,Volkswagen,The Beetle,2.0 Sport Dsg,2018,75000,Celeste,Nafta,3,Automática,2.0,Hatchback,Capital Federal - Capital Federal,2.0
+54000000,Toyota,Hilux Pick-Up,2.8 Cd Srx 204Cv 4X4 At,2022,36000,Negro,Diésel,4,Automática,2.8,Pick-Up,Capital Federal - Capital Federal,2.8
+10455000,Volkswagen,Golf,1.9 Tdi Advance,2009,167000,Gris,Diésel,5,Manual,1.9,Hatchback,Tigre - Bs.As. G.B.A. Norte,1.9
+11070000,Fiat,Fiorino,1.4 Endurance,2024,500,Blanco,Nafta,3,Manual,1.4,Furgón,La Matanza - Bs.As. G.B.A. Oeste,1.4
+12915000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Rojo,Nafta,4,Automática,1.3,Pick-Up,Escobar - Bs.As. G.B.A. Norte,1.3
+30900000,Chevrolet,Cruze 5,1.4 Turbo Lt At  5P,2024,500,Negro,Nafta,5,Automática,1.4,Hatchback,Capital Federal - Capital Federal,1.4
+19000000,Ford,Ecosport,1.5 Se 123cv 4x2 Automática,2018,78000,Naranja,Nafta,5,Automática,1.5,SUV,Lomas De Zamora - Bs.As. G.B.A. Sur,1.5
+20910000,Fiat,Cronos,1.8 16v Precision,2022,20000,Blanco,Nafta,4,Manual,1.8,Sedán,Capital Federal - Capital Federal,1.8
+30627000,Jeep,Compass,2.4 Sport,2018,31000,Gris,Nafta,5,Manual,2.4,SUV,Capital Federal - Capital Federal,2.4
+24900000,Kia,Sportage,2.0 Ex 154cv,2016,108500,Gris,Nafta,5,Manual,2.0,SUV,Capital Federal - Capital Federal,2.0
+23699900,Renault,Stepway,1.6 Intens Cvt,2025,2300,Rojo,Nafta,5,Automática,1.6,Hatchback,Almirante Brown - Bs.As. G.B.A. Sur,1.6
+23370000,Kia,Soul,1.6 Ex Bc 132cv 6at,2016,67000,Amarillo,Nafta,5,Automática,1.6,SUV,Malvinas Argentinas - Bs.As. G.B.A. Norte,1.6
+12915000,Citroën,C4 Lounge,1.6 Tendence Hdi 115cv,2015,137000,Gris,Diésel,4,Manual,1.6,Sedán,Capital Federal - Capital Federal,1.6
+12546000,Volkswagen,Gol Trend,1.6 Pack I 101cv 3p,2014,99000,Gris,Nafta,3,Manual,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+18200000,Volkswagen,The Beetle,1.4 Tsi Design,2016,152000,Negro,Nafta,3,Manual,1.4,Hatchback,Pilar - Bs.As. G.B.A. Norte,1.4
+47000000,Volkswagen,Golf,2.0 Gti Tsi App Connect + Cuero,2020,69000,Blanco,Nafta,5,Automática,2.0,Hatchback,Pilar - Bs.As. G.B.A. Norte,2.0
+13500000,Volkswagen,Fox,1.6 Highline,2014,92735,Negro,Nafta,3,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+18360000,Peugeot,208,1.6 Feline,2020,59912,Marrón,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+17000000,Volkswagen,Up!,"1,0 TSI PEPPER UP!",2017,110479,Gris,Nafta,5,Manual,1.0,Hatchback,Almirante Brown - Bs.As. G.B.A. Sur,1.0
+16200000,Chevrolet,Spin,1.8 N LTZ M/T,2016,98752,Gris,Nafta,5,Manual,1.8,Monovolumen,Almirante Brown - Bs.As. G.B.A. Sur,1.8
+19800000,Chevrolet,Spin,1.8 Lt 5as 105cv,2018,40130,Gris,Nafta,5,Manual,1.8,Monovolumen,Almirante Brown - Bs.As. G.B.A. Sur,1.8
+46300000,Chevrolet,S10,2.8 High Country Cd Tdci 200cv Automática,2022,77732,Blanco,Diésel,4,Automática,2.8,Pick-Up,Almirante Brown - Bs.As. G.B.A. Sur,2.8
+31500000,Volkswagen,Nivus,1.0 Tsi Tiptronic Hero,2022,20500,Rojo,Nafta,5,Automática,1.0,SUV,Capital Federal - Capital Federal,1.0
+17220000,Toyota,Etios,1.5 Sedan Xls,2015,172000,Plateado,Nafta,4,Manual,1.5,Sedán,Capital Federal - Capital Federal,1.5
+21900000,Honda,HR-V,1.8 Lx 2wd Cvt,2017,120000,Plateado,Nafta,5,Automática,1.8,SUV,San Fernando - Bs.As. G.B.A. Norte,1.8
+54120000,Kia,Sorento,2.2 Crdi Gt-line Ex 4x4,2018,77000,Blanco,Diésel,5,Automática,2.2,SUV,Malvinas Argentinas - Bs.As. G.B.A. Norte,2.2
+18200000,Peugeot,208,1.6 Gt Thp,2019,44600,Rojo,Nafta,5,Manual,1.6,Hatchback,Almirante Brown - Bs.As. G.B.A. Sur,1.6
+4797000,Fiat,Mobi,1.0 Trekking,2025,500,Plateado,Nafta,5,Manual,1.0,Hatchback,Capital Federal - Capital Federal,1.0
+36285000,Ford,Kuga,2.0 Titanium At Awd,2018,100000,Blanco,Nafta,5,Automática,2.0,SUV,San Isidro - Bs.As. G.B.A. Norte,2.0
+23985000,Chevrolet,Onix,1.0 LT TURBO,2025,1000,Blanco,Nafta,5,Manual,1.0,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.0
+16000000,Nissan,Frontier,2.8 D/c 4x4 Se,2006,260000,Gris,Diésel,4,Manual,2.8,Pick-Up,Capital Federal - Capital Federal,2.8
+8390900,Fiat,Idea,1.4 Elx Mp3,2008,130000,Gris,Nafta,5,Manual,1.4,Monovolumen,Capital Federal - Capital Federal,1.4
+20500000,Peugeot,308,1.6 Feline Thp 163cv Tiptronic,2017,19000,Plateado,Nafta,5,Automática,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+8000000,Peugeot,308,1.6 Active,2014,110000,Gris,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+24500000,Toyota,Etios,1.5 Sedan Xls At,2022,37000,Gris,Nafta,4,Automática,1.5,Sedán,Capital Federal - Capital Federal,1.5
+33087000,Ford,Kuga,2.0 Sel At 4X4,2017,100000,Plateado,Nafta,5,Automática,2.0,SUV,San Isidro - Bs.As. G.B.A. Norte,2.0
+9500000,Volkswagen,Voyage,1.6 101cv,2013,165000,Gris,Nafta,4,Manual,1.6,Sedán,Tigre - Bs.As. G.B.A. Norte,1.6
+24000000,Toyota,Etios,1.5 Sedan Xls At,2023,18000,Gris,Nafta,4,Automática,1.5,Sedán,Lomas De Zamora - Bs.As. G.B.A. Sur,1.5
+8200000,Chevrolet,Aveo G3,1.6 Ls,2012,160000,Azul,Nafta,4,Manual,1.6,Sedán,La Matanza - Bs.As. G.B.A. Oeste,1.6
+18600000,Peugeot,2008,1.6 Feline Tip,2018,135000,Blanco,Nafta,5,Automática,1.6,SUV,Pilar - Bs.As. G.B.A. Norte,1.6
+18499900,Ford,Ecosport,1.6 Freestyle 110cv 4x2,2016,68500,Plateado,Nafta,5,Manual,1.6,SUV,Capital Federal - Capital Federal,1.6
+7500000,Peugeot,208,1.6 Active,2017,79000,Negro,Nafta,5,Manual,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+44895000,Toyota,Corolla,2.0 Gr-Sport Cvt,2024,4300,Blanco,Nafta,4,Automática,2.0,Sedán,San Isidro - Bs.As. G.B.A. Norte,2.0
+36600000,Volkswagen,Tiguan Allspace,1.4 Tsi Trendline 150cv Dsg,2020,100000,Blanco,Nafta,5,Automática,1.4,SUV,Lomas De Zamora - Bs.As. G.B.A. Sur,1.4
+6765000,Fiat,Fiorino,1.4 Endurance,2025,1000,Blanco,Nafta,3,Manual,1.4,Furgón,Avellaneda - Bs.As. G.B.A. Sur,1.4
+31400000,Renault,Alaskan,2.3 Bit 16v Emotion Mt 4x2,2022,40000,Blanco,Diésel,4,Manual,2.3,Pick-Up,Lomas De Zamora - Bs.As. G.B.A. Sur,2.3
+17500000,Peugeot,2008,1.6 Thp Sport,2017,76000,Blanco,Nafta,5,Manual,1.6,SUV,Capital Federal - Capital Federal,1.6
+20295000,Toyota,Etios,1.5 Xls,2020,59000,Rojo,Nafta,5,Manual,1.5,Hatchback,Del Viso - Bs.As. G.B.A. Norte,1.5
+16500000,Nissan,Versa,1.6 Advance,2018,80000,Gris,Nafta,4,Manual,1.6,Sedán,Capital Federal - Capital Federal,1.6
+10455000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,500,Blanco,Nafta,4,Automática,1.3,Pick-Up,Beccar - Bs.As. G.B.A. Norte,1.3
+47000000,Toyota,Hilux Pick-Up,2.8 Cd Srv 204Cv 4X4 At,2022,63199,Blanco,Diésel,4,Automática,2.8,Pick-Up,Capital Federal - Capital Federal,2.8
+30000000,Toyota,Corolla,1.8 Hev Seg Ecvt,2021,78000,Blanco,Híbrido/Nafta,4,Automática,1.8,Sedán,Capital Federal - Capital Federal,1.8
+18500000,Renault,Captur,2.0 Intens Manual,2017,93000,Dorado,Nafta,5,Manual,2.0,SUV,Ituzaingó - Bs.As. G.B.A. Oeste,2.0
+40590000,Kia,Sorento,2.2 Crdi Ex,2017,120000,Gris,Diésel,5,Automática,2.2,SUV,San Isidro - Bs.As. G.B.A. Norte,2.2
+35670000,Peugeot,208,1.6 Gt Thp,2020,5000,Amarillo,Nafta,5,Automática,1.2,Hatchback,Ituzaingó - Bs.As. G.B.A. Oeste,1.2
+15700000,Peugeot,208,1.6 Allure,2019,73000,Gris,Nafta,5,Manual,1.6,Hatchback,Ituzaingó - Bs.As. G.B.A. Oeste,1.6
+23000000,Peugeot,208,1.6 Active Pack,2023,23000,Negro,Nafta,5,Manual,1.6,Hatchback,Ituzaingó - Bs.As. G.B.A. Oeste,1.6
+11685000,Fiat,Palio,1.4 Attractive 85cv C/pack Seguridad,2014,125000,Gris,Nafta,5,Manual,1.4,Hatchback,Tigre - Bs.As. G.B.A. Norte,1.4
+19500000,Ford,Focus III,2.0 Titanium At6,2017,106000,Gris,Nafta,5,Automática,2.0,Hatchback,Tigre - Bs.As. G.B.A. Norte,2.0
+20910000,Citroën,Berlingo Furgon,Furgon 1.6 hdi 92 business mixto AM20,2020,105000,Gris,Diésel,5,Manual,1.6,Furgón,Capital Federal - Capital Federal,1.6
+40577700,Volkswagen,Taos,1.4 250 Tsi Highline,2022,50000,Negro,Nafta,5,Automática,1.4,SUV,General San Martín - Bs.As. G.B.A. Norte,1.4
+8150000,Citroën,C4 Cactus,1.2 Puretech 110 At6 S&s Shine,2018,94000,Blanco,Nafta,5,Automática,1.2,SUV,Capital Federal - Capital Federal,1.2
+20000000,Chevrolet,Cruze,1.4 Ltz At Sedan,2021,128848,Azul,Nafta,4,Automática,1.4,Sedán,Capital Federal - Capital Federal,1.4
+32500000,Volkswagen,Amarok,2.0 Cd Tdi 180cv Highline,2019,160000,Plateado,Diésel,4,Manual,2.0,Pick-Up,San Miguel - Bs.As. G.B.A. Norte,2.0
+12300000,Peugeot,208,1.5 Active,2013,99000,Plateado,Nafta,5,Manual,1.5,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.5
+19557000,Peugeot,Partner Patagónica,1.6 Vtc Plus,2017,79000,Gris,Nafta,4,Manual,1.6,Monovolumen,Vicente López - Bs.As. G.B.A. Norte,1.6
+28400000,Renault,Kangoo,1.5 Dci Furgon Stepway,2023,20000,Negro,Diésel,4,Manual,1.5,Furgón,Malvinas Argentinas - Bs.As. G.B.A. Norte,1.5
+7380000,Fiat,Fiorino,1.4 Endurance,2024,1000,Blanco,Nafta,3,Manual,1.4,Furgón,Quilmes - Bs.As. G.B.A. Sur,1.4
+8364000,Fiat,Cronos,1.3 Gse Drive Pack Plus,2025,1000,Negro,Nafta,4,Manual,1.3,Sedán,La Matanza - Bs.As. G.B.A. Oeste,1.3
+12915000,Fiat,FASTBACK,1.3 T270 At6,2025,1000,Negro,Nafta,5,Automática,1.3,SUV,San Isidro - Bs.As. G.B.A. Norte,1.3
+21500000,Ford,Ecosport,1.5 Titanium 123Cv 4X2,2018,121000,Gris,Nafta,5,Manual,1.5,SUV,Moreno - Bs.As. G.B.A. Oeste,1.5
+31900000,Peugeot,308,1.6 S Allure Plus,2022,31000,Blanco,Nafta,5,Automática,1.6,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.6
+39900000,Jeep,Renegade,1.3 Serie-S At6,2025,11111,Blanco,Nafta,5,Automática,1.3,SUV,Ituzaingó - Bs.As. G.B.A. Oeste,1.3
+11931000,Renault,Sandero Stepway,1.6 Confort 105cv,2014,150000,Gris,Nafta,5,Manual,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+34000000,Toyota,Corolla,2.0 Xei Cvt 171Cv,2023,20100,Gris,Nafta,4,Automática,2.0,Sedán,Capital Federal - Capital Federal,2.0
+42000000,Jeep,Compass,1.3 T270 Sport,2021,33219,Plateado,Nafta,5,Automática,1.3,SUV,Capital Federal - Capital Federal,1.3
+31500000,Fiat,Pulse,1.0 Audace Cvt,2025,1400,Blanco,Nafta,5,Automática,TURBOALIMENTADO,SUV,Córdoba - Córdoba,
+23450000,Ford,Ecosport,2.0 Gdi Titanium 170cv 4x2,2018,101975,Azul,Nafta,5,Automática,2.0,SUV,Córdoba - Córdoba,2.0
+29200000,Jeep,Renegade,1.8 Sport At6,2023,0,Azul,Nafta,5,Automática,1.8,SUV,Tigre - Bs.As. G.B.A. Norte,1.8
+19600000,Renault,Kangoo Ii Express,1.5 Dci Confort 5A,2022,118000,Blanco,Diésel,4,Manual,1.5,Furgón,Lomas De Zamora - Bs.As. G.B.A. Sur,1.5
+40000000,Toyota,Corolla Cross,2.0 Seg Cvt,2022,27000,Blanco,Nafta,5,Automática,2.0,SUV,Capital Federal - Capital Federal,2.0
+21100001,Renault,Sandero Stepway,1.6 16v Intense Cvt,2021,74000,Rojo,Nafta,5,Automática,1.6,Hatchback,Capital Federal - Capital Federal,1.6
+28905000,Fiat,Toro,1.3 T270 Freedom 4X2,2025,666,Blanco,Nafta,4,Automática,1.3,Pick-Up,Capital Federal - Capital Federal,1.3
+41500000,Ford,Territory,1.8 Ecobost Sel At,2023,28000,Azul,Nafta,5,Automática,1.8,SUV,Malvinas Argentinas - Bs.As. G.B.A. Norte,1.8
+34000000,Toyota,Corolla Cross,2.0 Xli Cvt,2022,40444,Rojo,Nafta,5,Automática,2.0,SUV,Capital Federal - Capital Federal,2.0
+10207770,Peugeot,207,1.6 Feline 106cv,2012,123000,Plateado,Nafta,5,Manual,1.6,Hatchback,General San Martín - Bs.As. G.B.A. Norte,1.6
+15200000,Chevrolet,Onix,1.4 Ltz 98cv,2017,76000,Negro,Nafta,5,Manual,1.4,Hatchback,Vicente López - Bs.As. G.B.A. Norte,1.4
+15375000,Renault,Sandero,1.6 Expression Pack 90cv,2017,62000,Blanco,Nafta,5,Manual,1.6,Hatchback,San Isidro - Bs.As. G.B.A. Norte,1.6
+33087000,Ford,Territory,1.5t Sel,2021,65000,Blanco,Nafta,5,Automática,1.5,SUV,Florencio Varela - Bs.As. G.B.A. Sur,1.5
+40000000,Toyota,Corolla Cross,1.8 Seg Ecvt,2022,55000,Blanco,Híbrido/Nafta,5,Automática,1.8,SUV,Capital Federal - Capital Federal,1.8
+33900000,Toyota,Corolla Cross,2.0 Xli Cvt,2022,40000,Rojo,Nafta,5,Automática,2.0,SUV,Capital Federal - Capital Federal,2.0
+18200000,Peugeot,308,1.6 Allure Pack,2019,124214,Blanco,Nafta,5,Manual,1.6,Hatchback,Almirante Brown - Bs.As. G.B.A. Sur,1.6
